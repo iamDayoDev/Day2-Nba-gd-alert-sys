@@ -1,4 +1,4 @@
-# Day 2: DevOps Challenge - NBA Games Alerts System
+# Day 2: DevOps Challenge - NBA Games Alert System
 
 ## **Technical Architecture**
 ![nba_API](https://github.com/user-attachments/assets/5e19635e-0685-4c07-9601-330f7d1231f9)
